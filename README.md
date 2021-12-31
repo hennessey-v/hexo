@@ -4,6 +4,7 @@ A mirror of the Hexo environment and base configuration.
 
 在本地通过hexo生成静态文件，推送到GitHub仓库，以实现免费的个人博客
 
+[**dockerhub地址**](https://hub.docker.com/r/hennessey/hexo)https://hub.docker.com/r/hennessey/hexo
 
 ## 镜像内置环境
 
