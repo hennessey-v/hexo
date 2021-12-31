@@ -73,6 +73,7 @@ cat ~/.ssh/id_rsa.pub
 ssh -T git@github.com
 ```
 
+#### hexo配置文件
 配置站点文件 _config.yml，修改添加以下内容
 ```
 deploy:
@@ -82,9 +83,11 @@ git@github.com:yourgithubname/yourgithubname.github.io.git
   branch: master
 ```
 
-配置完成！
 
-hexo相关命令
+#### 配置完成！可以通过github部署hexo了！
+
+
+#### hexo相关命令
 ```
 hexo clean 第一次安装不用清缓存
 
