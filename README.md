@@ -1,4 +1,13 @@
-## 内置环境
+## 简述
+Hexo环境和基础配置的镜像。
+A mirror of the Hexo environment and base configuration.
+
+在本地通过hexo生成静态文件，推送到GitHub仓库，以实现免费的个人博客
+
+
+## 镜像内置环境
+
+alpine 3.12
 
 hexo 5.4.0
 
@@ -31,7 +40,7 @@ docker run -dit \
 
 ## 配置
 
-#### github+hexo模式环境配置
+#### github+hexo模式环境简单配置
 
 设置github变量
 ```shell
