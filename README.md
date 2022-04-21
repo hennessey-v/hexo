@@ -99,4 +99,4 @@ hexo generate -deploy 生成静态文件后立即部署网站
 ```
 
 
-[**详细步骤请移步我的个人博客**](https://www.hennessey.xyz/2021/08/17/TermuxLinux%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/)
+[**详细步骤请移步我的个人博客**](https://www.hennessey.xyz/2021/08/17/Termux-Hexo/)
